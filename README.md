@@ -1,6 +1,6 @@
-# Falcoctl Talk 🦅
+# Falcoctl Demo 🦅
 
-This is a talk about falcoctl, a tool to help manage Falco artifacts.
+This is a demo of [falcoctl](https://falco.org/blog/falcoctl-install-manage-rules-plugins/), a tool to help manage Falco artifacts.
 
 ## Run the Demo Script 🚀
 
